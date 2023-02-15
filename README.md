@@ -34,7 +34,7 @@ whose images are slightly dominant. The data set contains the following diseases
 
 ## Conclusions
 
-- When CNN was created without Droput, Augmentor and Class rebalance, we could observe model was clearly Overfitting
+- When CNN was created without Dropout, Augmentor and Class rebalance, we could observe model was clearly Overfitting
 
 - Augmentation and Class rebalance has helped us to get rid of Overfitting and Underfitting and we could Training accuracy of ~99 % and Validation Accuracy more than 75%
 
